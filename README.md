@@ -131,7 +131,7 @@ https://rb.x7.pw/send.php?token={$bot_api_key}&username={$username_bot}&chat_id=
 示例：
 
 ```
-https://rb.x7.pw/send.php?token=1625968508:AAF_8P5GAVc4ejsnkxh2ujq3L2SHnpHaysM&username=RobinCN_bo&chat_id=900000007&photo=https://pic.rmb.bdstatic.com/bjh/8fad2fa4b4fb43c410d35556692775f6.png
+https://rb.x7.pw/send.php?token=1625968508:AAF_8P5GAVc4ejsnkxh2ujq3L2SHnpHaysM&username=RobinCN_bot&chat_id=900000007&photo=https://pic.rmb.bdstatic.com/bjh/8fad2fa4b4fb43c410d35556692775f6.png
 ```
 
 响应：
@@ -177,7 +177,7 @@ https://rb.x7.pw/send.php?token=1625968508:AAF_8P5GAVc4ejsnkxh2ujq3L2SHnpHaysM&u
 				"height": 664
 			}
 		],
-		"bot_username": "RobinCN_bo"
+		"bot_username": "RobinCN_bot"
 	}
 }
 ```
